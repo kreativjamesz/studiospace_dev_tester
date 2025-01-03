@@ -1,0 +1,84 @@
+// Centered Container Width
+.ss-container
+  box-sizing: border-box
+  width: 100%
+  float: left
+  max-width: 100%
+  text-align: left
+  overflow: visible
+  max-width: 100%
+  @include columnPadding(0px, $xs-wrap-margin)
+  @include columnPadding($xs-breakpoint, $xs-wrap-margin)
+  @include columnPadding($sm-breakpoint, $sm-wrap-margin)
+  @include columnPadding($md-breakpoint, $md-wrap-margin)
+  @include columnPadding($ms-breakpoint, $ms-wrap-margin)
+  @include columnPadding($xl-breakpoint, $xl-wrap-margin)
+  @include columnPadding($xxl-breakpoint, $xxl-wrap-margin)
+
+.ss-row
+  box-sizing: border-box
+  display: inline-flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: flex-start
+  align-content: stretch
+  align-items: stretch
+  overflow: visible
+  @include rowLayout(0px, $xs-grid-space)
+  @include rowLayout($xs-breakpoint, $xs-grid-space)
+  @include rowLayout($sm-breakpoint, $sm-grid-space)
+  @include rowLayout($md-breakpoint, $md-grid-space)
+  @include rowLayout($ms-breakpoint, $ms-grid-space)
+  @include rowLayout($xl-breakpoint, $xl-grid-space)
+  @include rowLayout($xxl-breakpoint, $xxl-grid-space)
+  & > .ss-row__item
+    box-sizing: border-box
+    order: 0
+    flex: 0 1 auto
+    align-self: auto
+    &.ss-row__item-xs-3
+      @include rowItemLayout($xs-breakpoint, $xs-grid-space, 3)
+    &.ss-row__item-xs-4
+      @include rowItemLayout($xs-breakpoint, $xs-grid-space, 4)
+    &.ss-row__item-xs-6
+      @include rowItemLayout($xs-breakpoint, $xs-grid-space, 6)
+    &.ss-row__item-xs-12
+      @include rowItemLayout($xs-breakpoint, $xs-grid-space, 12)
+    &.ss-row__item-md-3
+      @include rowItemLayout($md-breakpoint, $md-grid-space, 3)
+    &.ss-row__item-md-4
+      @include rowItemLayout($md-breakpoint, $md-grid-space, 4)
+    &.ss-row__item-md-6
+      @include rowItemLayout($md-breakpoint, $md-grid-space, 6)
+    &.ss-row__item-md-12
+      @include rowItemLayout($md-breakpoint, $md-grid-space, 12)
+    &.ss-row__item-ms-3
+      @include rowItemLayout($ms-breakpoint, $ms-grid-space, 3)
+    &.ss-row__item-ms-4
+      @include rowItemLayout($ms-breakpoint, $ms-grid-space, 4)
+    &.ss-row__item-ms-6
+      @include rowItemLayout($ms-breakpoint, $ms-grid-space, 6)
+    &.ss-row__item-ms-8
+      @include rowItemLayout($ms-breakpoint, $ms-grid-space, 8)
+    &.ss-row__item-ms-12
+      @include rowItemLayout($ms-breakpoint, $ms-grid-space, 12)
+    &.ss-row__item-xl-3
+      @include rowItemLayout($xl-breakpoint, $xl-grid-space, 3)
+    &.ss-row__item-xl-4
+      @include rowItemLayout($xl-breakpoint, $xl-grid-space, 4)
+    &.ss-row__item-xl-6
+      @include rowItemLayout($xl-breakpoint, $xl-grid-space, 6)
+    &.ss-row__item-xl-8
+      @include rowItemLayout($xl-breakpoint, $xl-grid-space, 8)
+    &.ss-row__item-xl-12
+      @include rowItemLayout($xl-breakpoint, $xl-grid-space, 12)
+    &.ss-row__item-xxl-3
+      @include rowItemLayout($xxl-breakpoint, $xxl-grid-space, 3)
+    &.ss-row__item-xxl-4
+      @include rowItemLayout($xxl-breakpoint, $xxl-grid-space, 4)
+    &.ss-row__item-xxl-6
+      @include rowItemLayout($xl-breakpoint, $xxl-grid-space, 6)
+    &.ss-row__item-xxl-8
+      @include rowItemLayout($xxl-breakpoint, $xxl-grid-space, 8)
+    &.ss-row__item-xxl-12
+      @include rowItemLayout($xxl-breakpoint, $xxl-grid-space, 12)

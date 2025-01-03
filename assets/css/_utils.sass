@@ -1,0 +1,76 @@
+// prefix utility classes with u-*
+.u-asterisk
+  color: $pink
+
+.u-line-break-s
+  display: block
+  margin-bottom: 0.8rem
+
+.flex-row
+  display: flex
+  gap: 1rem
+  align-items: center
+  justify-content: center
+
+  @media (max-width: $ms-breakpoint)
+    flex-direction: column
+
+.float-img-left
+  display: flex
+  align-items: center
+
+  @media (max-width: $ms-breakpoint)
+    flex-direction: column
+
+  &__col
+    margin-left: 1.7rem
+
+    @media (max-width: $ms-breakpoint)
+      margin-left: 0
+
+  &__icon
+    width: 14rem
+
+  &__subtitle
+    font-size: 2.4rem
+    font-weight: 700
+    margin-bottom: 0.8rem
+    color: $black
+
+    @media (max-width: $ms-breakpoint)
+      font-size: 1.6rem
+
+  &__paragraph
+    font-size: 1.6rem
+    font-weight: 500
+
+    @media (max-width: $ms-breakpoint)
+      font-size: 1.6rem
+
+.shake
+  animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both
+  transform: translate3d(0, 0, 0)
+
+.u-flex-row
+  display: flex
+  align-items: center
+  justify-content: space-between
+
+.u-flex-row-center
+  display: flex
+  align-items: center
+
+.u-flex-row-center-spaced
+  display: flex
+  align-items: center
+  justify-content: space-between
+
+.u-flex-row-end
+  display: flex
+  justify-content: flex-end
+
+.flex-row
+  display: flex
+  gap: 1rem
+  align-items: center
+  justify-content: center

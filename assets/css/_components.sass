@@ -1,0 +1,116 @@
+@use "sass:map"
+
+body
+  background-image: url("/gradient-background.svg")  
+
+.form-field
+  display: flex
+  flex-direction: column
+
+  &__label
+    display: block
+    font-size: 1.6rem
+    font-weight: 700
+    color: $black
+    margin-bottom: 0.5rem
+
+  &__input
+    display: block
+    background-color: $white
+    border-radius: 0.2rem
+    border: 0.1rem solid map.get($greyShades, 'greyShade20')
+    font-size: 1.6rem
+    // width: 36rem
+    height: 5.2rem
+    padding: 0 1.3rem
+    letter-spacing: 0.025em
+    -webkit-appearance: none
+    -moz-appearance: none
+    appearance: none
+    background-repeat: no-repeat
+
+    &.lg
+      // width: 36rem
+      height: 5.2rem
+
+    &.md
+      width: 100%
+      height: 4.2rem
+
+    @media (max-width: $ms-breakpoint)
+      width: 100% !important
+
+    &.error
+      border-color: $pink
+
+    &::-webkit-input-placeholder,
+    &::placeholder
+      font-size: 1.6rem
+      color: map.get($greyShades, 'greyShade50')
+      font-weight: 500
+
+    &.md::-webkit-input-placeholder,
+    input.md::placeholder
+      font-size: 1.4rem
+
+  &__hint
+    display: block
+    color: map.get($greyShades, 'greyShade70')
+    font-size: 1.4rem
+    margin-top: 1rem
+    line-height: 1.3
+.error-message
+  @include paragraph-02
+  color: map.get($greyShades, 'greyShade70')
+  display: flex
+  margin-top: 0.8rem
+  align-items: center
+  &:before
+    content: ''
+    @include backgroundImage('warning.svg')
+    min-width: 16px
+    height: 16px
+    margin-right: 4px
+
+
+.select-height-reset
+    &.form-field__input
+        height: unset
+
+    label.multiselect__option
+        height: unset
+
+.native-table
+  width: 100%
+  border-spacing: 0 0.8rem
+
+  &-wrapper
+    overflow: auto
+
+  tr:not(:first-child)
+    border-radius: 0.8rem
+    box-shadow: 0 0.4rem 0.5rem 0 rgba(map.get($greyShades, 'greyShade90'), 0.05)
+
+  td, th
+    text-align: left
+    color: map.get($greyShades, 'greyShade90')
+
+  th
+    padding: 1.2rem 2.4rem
+
+  td
+    padding: 2.4rem
+    border: 0.1rem solid map.get($greyShades, 'greyShade20')
+    background-color: map.get($greyShades, 'greyShade10')
+
+  td:first-child
+    border-radius: 0.8rem 0 0 0.8rem
+
+  td:last-child
+    border-radius: 0 0.8rem 0.8rem 0
+
+  td:not(:first-child)
+    border-left: none
+
+  td:not(:last-child)
+    border-right: none

@@ -1,0 +1,302 @@
+@use "sass:map"
+    
+$iconsdir: '@/assets/img/'
+@mixin backgroundImage($imgpath,$position:center center,$size: auto, $repeat: no-repeat)
+    background: $position / $size $repeat url(#{$iconsdir}#{$imgpath})
+
+%heading-primary
+    font-size: 5rem
+    font-weight: bold
+
+//  Note: - Feel free to place (0px) fpr All spacing vars - $innerSpace & $columnsSpace to have no margins or space
+
+// All Grid/Layout sass mixins
+
+// columnPadding
+// @params $breakpointWidth -- Breakpoint Width
+// @params $innerSpace -- Margins/Spacing from Left and Right within Container
+// @params $maxwidth -- for limiting containerWidth at and above specific breakpointWidth
+
+// Note:- All below Grid mixins are according to mobile-first technique
+@mixin columnPadding($breakpointWidth, $innerspace, $maxWidth:100%)
+    @media all and (min-width: $breakpointWidth)
+        padding-left: $innerspace
+        padding-right: $innerspace
+        max-width: $maxWidth
+
+// rowLayout
+// @params $breakpointWidth -- Breakpoint Width
+// @params $columnsSpace -- Space required between Columns
+
+@mixin rowLayout($breakpointWidth, $columnsSpace)
+    @media all and (min-width: $breakpointWidth)
+        width: calc(100% + $columnsSpace)
+        margin-left: -(.5 * $columnsSpace)
+        margin-right: -(.5 * $columnsSpace)
+
+// rowItemLayout
+// @params $breakpointWidth -- Breakpoint Width
+// @params $columnsSpace -- Space required between Columns
+// @params $columnSpan -- Column Span within Row
+
+@mixin rowItemLayout($breakpointWidth, $columnsSpace, $columnSpan)
+    @media all and (min-width: $breakpointWidth)
+        width: calc(((100% / 12) * $columnSpan) - $columnsSpace)
+        margin-left: (.5 * $columnsSpace)
+        margin-right: (.5 * $columnsSpace)
+
+// rowItemLayoutSpecific
+// @params $breakpointWidth // Breakpoint Width
+// @params $columnsSpace // Space required between Columns
+// @params $width // width of rowItem within a row
+
+@mixin rowItemLayoutSpecific($breakpointWidth, $columnsSpace, $width)
+    @media all and (min-width: $breakpointWidth)
+        width: calc($width - $columnsSpace)
+        margin-left: (.5 * $columnsSpace)
+        margin-right: (.5 * $columnsSpace)
+
+// Typography
+// Display
+.display
+    color: $primary
+    font-weight: bold
+    letter-spacing: -0.02em
+    font-family: 'Roobert'
+
+@mixin display-jumbo-01($breakpoint: 'LG')
+    @extend .display
+    @if $breakpoint == 'LG'
+        font-size: 9.6rem
+    @else
+        font-size: 4.8rem
+
+@mixin display-jumbo-02($breakpoint: 'LG')
+    @extend .display
+    @if $breakpoint == 'LG'
+        font-size: 6.4rem
+    @else
+        font-size: 4.4rem
+
+@mixin display-hero-01($breakpoint: 'LG')
+    @extend .display
+    @if $breakpoint == 'LG'
+        font-size: 4.8rem
+    @else
+        font-size: 3.6rem
+
+@mixin display-hero-02($breakpoint: 'LG')
+    @extend .display
+    @if $breakpoint == 'LG'
+        font-size: 4rem
+    @else
+        font-size: 3.2rem
+
+@mixin display-hero-03($breakpoint: 'LG')
+    @extend .display
+    @if $breakpoint == 'LG'
+        font-size: 3.2rem
+    @else
+        font-size: 2.8rem
+
+// Headings
+.heading-B
+    font-family: 'Roobert'
+    font-weight: bold
+
+.heading
+    font-family: 'Roobert'
+    font-weight: normal
+
+@mixin heading-01-B($breakpoint: 'LG')
+    @extend .heading-B
+    @if $breakpoint == 'LG'
+        font-size: 3.2rem
+    @else
+        font-size: 2.8rem
+
+@mixin heading-01($breakpoint: 'LG')
+    @extend .heading
+    @if $breakpoint == 'LG'
+        font-size: 3.2rem
+    @else
+        font-size: 2.8rem
+
+@mixin heading-02-B($breakpoint: 'LG')
+    @extend .heading-B
+    @if $breakpoint == 'LG'
+        font-size: 2.8rem
+    @else
+        font-size: 2.4rem
+
+@mixin heading-02($breakpoint: 'LG')
+    @extend .heading
+    @if $breakpoint == 'LG'
+        font-size: 2.8rem
+    @else
+        font-size: 2.4rem
+
+@mixin heading-03-B($breakpoint: 'LG')
+    @extend .heading-B
+    @if $breakpoint == 'LG'
+        font-size: 2.4rem
+    @else
+        font-size: 2.2
+
+@mixin heading-03($breakpoint: 'LG')
+    @extend .heading
+    @if $breakpoint == 'LG'
+        font-size: 2.4rem
+    @else
+        font-size: 2.2
+
+@mixin heading-04-B($breakpoint: 'LG')
+    @extend .heading-B
+    @if $breakpoint == 'LG'
+        font-size: 2.2rem
+    @else
+        font-size: 2rem
+
+@mixin heading-04($breakpoint: 'LG')
+    @extend .heading
+    @if $breakpoint == 'LG'
+        font-size: 2.2rem
+    @else
+        font-size: 2rem
+
+@mixin heading-04-M($breakpoint: 'LG')
+    @extend .heading
+    font-weight: bold
+    @if $breakpoint == 'LG'
+        font-size: 2.2rem
+    @else
+        font-size: 2rem
+
+@mixin heading-05-B($breakpoint: 'LG')
+    @extend .heading-B
+    @if $breakpoint == 'LG'
+        font-size: 1.8rem
+    @else
+        font-size: 1.8rem
+
+@mixin heading-05($breakpoint: 'LG')
+    @extend .heading
+    @if $breakpoint == 'LG'
+        font-size: 1.8rem
+    @else
+        font-size: 1.8rem
+
+// Paragraph
+.paragraph
+    font-weight: normal
+    letter-spacing: -0.005em
+    font-family: 'Roobert'
+
+.paragraph-M
+    font-weight: 500
+    letter-spacing: -0.005em
+    font-family: 'Roobert'
+
+.paragraph-B
+    font-weight: 700
+    letter-spacing: -0.005em
+    font-family: 'Roobert'
+
+@mixin paragraph-01
+    @extend .paragraph
+    font-size: 1.6rem
+
+@mixin paragraph-01-long
+    @include paragraph-01
+    line-height: 160%
+
+@mixin paragraph-01-M
+    @extend .paragraph-M
+    font-size: 1.6rem
+
+@mixin paragraph-01-B
+    @extend .paragraph-B
+    font-size: 1.6rem
+
+@mixin paragraph-02
+    @extend .paragraph
+    font-size: 1.4rem
+
+@mixin paragraph-02-long
+    @include paragraph-02
+    line-height: 2.24rem
+
+@mixin paragraph-02-M
+    @extend .paragraph-M
+    font-size: 1.4rem
+
+@mixin paragraph-02-B
+    @extend .paragraph-B
+    font-size: 1.4rem
+
+@mixin paragraph-03
+    @extend .paragraph
+    font-size: 1.2rem
+
+@mixin paragraph-03-M
+    @extend .paragraph-M
+    font-size: 1.2rem
+
+@mixin paragraph-03-B
+    @extend .paragraph-B
+    font-size: 1.2rem
+
+@mixin paragraph-04
+    @extend .paragraph
+    font-size: 1rem
+
+@mixin paragraph-04-M
+    @extend .paragraph-M
+    font-size: 1rem
+
+@mixin paragraph-04-B
+    @extend .paragraph-B
+    font-size: 1rem
+
+// Labels
+.label
+    font-family: 'Space Mono'
+    font-weight: 700
+    letter-spacing: 0.05em
+
+@mixin label-01
+    @extend .label
+    font-size: 1.4rem
+
+@mixin label-02
+    @extend .label
+    font-size: 1.2rem
+
+@mixin label-03
+    @extend .label
+    font-size: 1rem
+
+// Scrollbar
+@mixin scrollbar
+    &::-webkit-scrollbar
+        background-color: $background
+        width: 0.8rem
+        height: 0.4rem
+        padding: 1rem
+        border-top: none
+        border-bottom: none
+
+    &::-webkit-scrollbar-thumb
+        background-color: map.get($greyShades, 'greyShade20')
+        border-radius: 2.4rem
+
+@mixin hideScrollbar
+    -ms-overflow-style: none
+    scrollbar-width: none
+
+    &::-webkit-scrollbar
+        display: none
+
+@mixin maxContentWidth
+    max-width: 1440px
+    margin: auto

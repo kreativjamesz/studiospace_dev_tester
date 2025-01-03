@@ -1,0 +1,220 @@
+// Sass variable naming convention: $kebab-case
+@use "sass:color"
+@use "sass:map"
+
+// Colors
+$greyShades: ( greyShade90: #26354A, greyShade80: #3E4B5E, greyShade70: #566272, greyShade60: #6E7886, greyShade50: #868E9A, greyShade40: #9FA5AF, greyShade30: #B7BCC3, greyShade20: #CFD2D7, greyShade10: #E7E9EB)
+$greenShades: ( greenShade30: #B9F3DC)
+$purpleShades: (purpleShade30: #C9CDFC)
+$scrollbarBorder: #9d9d9d
+$scrollbarBg: #f4f4f4
+$black: #000000
+$white: #FFFFFF
+$primary: #0E1E36
+$purple: #4A57F6
+$lightPurple: #dbddfd80
+
+// colors
+$white-disabled: color.scale($white, $alpha:-50%)
+$white-active: color.scale($white, $alpha:-10%)
+$white-dia-default: color.scale($white, $alpha:-12%)
+$white-dia-active: color.scale($white, $alpha:-20%)
+
+$primary-dia-default: color.scale($primary, $alpha:-12%)
+$primary-dia-active: color.scale($primary, $alpha:-20%)
+
+$primary-hover: map.get($greyShades, 'greyShade90')
+$primary-dia-hover: $white
+$purple-hover: #5561EC
+
+$primary-disabled: map.get($greyShades, 'greyShade40')
+$purple-disabled: #B7BCFB
+$primary-dia-disabled: map.get($greyShades, 'greyShade20')
+$primary-dia-disabled-color: #B7BCC3
+
+$primary-active: #0E1E36
+$purple-active: #434EDD
+$primary-dia-active: map.get($greyShades, 'greyShade10')
+
+// Secondary
+$secondary-hover: $primary-active
+$secondary-dia-hover: $white-active
+
+$secondary-dia-disabled: $white-disabled
+$secondary-disabled-color: map.get($greyShades, 'greyShade40')
+
+$secondary-active: $primary-dia-active
+$secondary-dia-active: $white-dia-active
+
+// Tertiary
+$tertiary: $white-dia-active
+$tertiary-dia: $white-dia-active
+
+$tertiary-hover: $white-disabled
+$tertiary-dia-hover: color.scale($primary, $alpha:-50%)
+
+$tertiary-disabled: $white-active
+$tertiary-dia-disabled: color.scale($primary, $alpha:-20%)
+
+$tertiary-active: $white-dia-active
+$tertiary-dia-active: transparent
+
+$pink: #E4536B
+$mustard: #F3A446
+$mustard2: #F2A248
+$mustard3: #FBE4C8
+$background: #F8F8F8
+$mustard-secondary: #FBE4C8
+$green: #3FD177
+$green-2: #2FC497
+$green-3: #14D88A
+$red: #ff0033
+$red-1: #FD3A57
+$purple-secondary: #DBDDFD
+$text-grey: #6F7887
+$blue: #0000FF
+$white: #ffffff
+$placeholder: #D9D9D9
+$brown: #360E15
+$brown-secondary: #361C0E
+$brown-primary: #441920
+$blush-pink: #FDDBE1
+$purple1: #EDEEFE
+
+$green110: #12C27C
+$blurple30: #C9CDFC
+$blurple50: #A5ABFB
+$gold30: #FBE4C8
+$pink30: #F7CBD3
+$blurple180: #0F1131
+$pink10: #FCEEF0
+$pink20: #FADDE1
+
+// Use colors as maps and their shades as keys. $color-[colorName]: ('shade': [hexColorCode], ...)
+$color-gold: ('20': #FDEDDA, '40': #FADBB5, '110': #DB943F, '180': #31210E)
+$color-green: ('30': #B9F3DC, '40': #A1EFD0, '170': #0E3A2D)
+$color-blue: ('10': #EBF7FC, '100': #334BFF)
+$color-violet: ('100': #7B2EF2)
+$color-blurple: ('10': #EDEEFE, '40': #B7BCFB)
+
+// Breakpoints Labels
+$breakpoints: ['xs', 'sm', 'md', 'ms', 'xl', 'xxl']
+$breakpointWidths: ['375px', '640px', '768px', '992px', '1200px', '1920px']
+$columns: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
+// Responsive Dimensions
+$phone-breakpoint: 480px
+$lg-breakpoint: 1220px
+
+// Mobile First Breakpoints
+
+// Mobile  Breakpoint
+$xs-breakpoint: 375px
+
+// Mobile  Landscape Breakpoint
+$sm-breakpoint: 640px
+
+// Ipad Port Breakpoint
+$md-breakpoint: 768px
+
+// IPad Landscape Breakpoint
+$ms-breakpoint: 992px
+
+// Desktop Breakpoint
+$xl-breakpoint: 1200px
+
+// Desktop Breakpoint
+$xxl-breakpoint: 1920px
+
+// Desktop Breakpoint
+$xl-breakpoint: 1200px
+
+// Desktop Breakpoint
+$xxl-breakpoint: 1920px
+
+// Desktop First Breakpoints
+// Mobile  Breakpoint
+// Mobile  Landscape Breakpoint
+$sm-mb-breakpoint: 639.98px
+
+// Ipad Port Breakpoint
+$md-mb-breakpoint: 767.98px
+
+// IPad Landscape Breakpoint
+$ms-mb-breakpoint: 991.98px
+
+// Desktop Breakpoint
+$xl-mb-breakpoint: 1199.98px
+
+// Desktop Breakpoint
+$xxl-mb-breakpoint: 1919.98px
+
+// Spacing
+$space-01: 0.4rem
+$space-02: 0.8rem
+$space-03: 1.2rem
+$space-04: 1.6rem
+$space-05: 2.0rem
+$space-06: 2.4rem
+$space-07: 3.2rem
+$space-08: 4.8rem
+$space-09: 6.4rem
+$space-10: 8.0rem
+$space-11: 12rem
+$space-12: 14rem
+
+// Border radius
+$radius-01: 0.4rem
+$radius-02: 0.8rem
+$radius-03: 1.2rem
+$radius-04: 1.6rem
+$radius-05: 50%
+
+// Box shadows
+$shadow-elevation-small: 0 0.4rem 0.5rem rgba($primary, 0.1)
+$shadow-elevation-medium: 0 0.4rem 1rem rgba($primary, 0.25)
+$shadow-elevation-large: 0 0.4rem 1.5rem rgba($primary, 0.4)
+
+// font-sizes
+$font-01: 1.2rem
+$font-02: 1.4rem
+$font-03: 1.6rem
+$font-04: 1.8rem
+$font-05: 2.0rem
+$font-06: 2.4rem
+$font-07: 3.2rem
+$font-08: 4.8rem
+$font-09: 6.4rem
+$font-10: 8.0rem
+$font-11: 12rem
+$font-12: 14rem
+
+// grid dimensions
+$xs-grid-space: 8px
+$sm-grid-space: 4px
+$md-grid-space: 8px
+$ms-grid-space: 12px
+$xl-grid-space: 24px
+$xxl-grid-space: 24px
+
+// wrap margins
+$xs-wrap-margin: 8px
+$sm-wrap-margin: 12px
+$md-wrap-margin: 16px
+$ms-wrap-margin: 16px
+$xl-wrap-margin: 24px
+$xxl-wrap-margin: 24px
+
+$transition-opacity: opacity .375s ease-in-out
+$transition-background-color: background-color .375s ease-in-out
+
+// breakpoints
+$breakpoint-desktop: 1440px
+$breakpoint-tablet-landscape: 1024px
+$breakpoint-tablet-portrait: 768px
+$breakpoint-mobile: 375px
+
+// Alert Colors
+$success: #D0F7E8
+$warning: #FDEDDA
+$warningText: #DB943F
