@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <section class="onboard-section">
+  <section
+    class="onboard-section h-screen flex flex-col items-center justify-center"
+  >
     <div class="onboard-section__header">
       <h1 class="onboard-section__title">
         <slot name="title"></slot>

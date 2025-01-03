@@ -1,24 +1,25 @@
 <script lang="ts" setup>
-import type { PropType } from 'vue'
-
-//import type { User } from '@/types'
-//import OnboardCardHeader from '@/components/organisms/onboard/OnboardCardHeader.vue'
+import type { PropType } from "vue";
 
 defineProps({
   title: {
-    type: String
+    type: String,
   },
   subtitle: {},
   /*user: {
     type: String as PropType<User>
   }*/
-})
+});
 </script>
 
 <template>
   <div class="onboard-card">
     <div class="onboard-card__header-wrapper" v-if="title && subtitle">
-      <OnboardCardHeader class="onboard-card__header" v-if="title" :title="title"></OnboardCardHeader>
+      <OnboardCardHeader
+        class="onboard-card__header"
+        v-if="title"
+        :title="title"
+      ></OnboardCardHeader>
       <h2 v-if="subtitle" class="onboard-card__legend" v-html="subtitle"></h2>
     </div>
     <div class="onboard-card__content">
@@ -41,7 +42,7 @@ defineProps({
 
   @media (max-width: $ms-breakpoint)
     width: 100%
-    min-height: 100%
+    min-height: auto
     border: none
     box-shadow: none
     border-radius: 0
