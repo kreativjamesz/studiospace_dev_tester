@@ -1,0 +1,3763 @@
+[
+  [
+    {
+      "id": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+      "companyName": "Flow Creative",
+      "about": "Flow is a design and motion studio that brings brands and stories to life. Based in Manchester, our passionate and collaborative team of designers, illustrators, and animators specialise in motion branding, brand systems, and narrative animation. We create brands that move and stories that engage audiences. As a values-driven studio, we focus on purpose-driven campaigns, collaborating extensively in the third sector, as well as with innovative organisations in tech, education and healthcare.",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 6,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "Entertainment"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 19,
+          "name": "Not for Profit"
+        },
+        {
+          "id": 21,
+          "name": "Pharmaceutical"
+        },
+        {
+          "id": 26,
+          "name": "Technology, Information and Media"
+        },
+        {
+          "id": 31,
+          "name": "Scale-up"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        }
+      ],
+      "locations": [
+        {
+          "id": "66229de0-d083-46b4-8860-7c4901a4c226",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "817539fa-2b0e-4328-89a8-f0d2b044807c",
+            "name": "Karl Doran"
+          },
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 43,
+            "name": "Creative Production",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 43,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 45,
+            "name": "Copywriting",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 45,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 46,
+            "name": "Editing / Proofreading",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 46,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 48,
+            "name": "Animation",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 48,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 49,
+            "name": "Audio Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 49,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 50,
+            "name": "Editing",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 50,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 52,
+            "name": "Illustration",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 52,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 53,
+            "name": "Motion Graphics",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 53,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 54,
+            "name": "Photography",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 54,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 55,
+            "name": "Production Management",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 55,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 56,
+            "name": "TV Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 56,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 57,
+            "name": "Video Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 57,
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "13e8d3bf-73b0-4082-88d0-8f539b42bdbc",
+            "fileName": "1733222692846_flow_grid@2x.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "13e8d3bf-73b0-4082-88d0-8f539b42bdbc",
+          "documentType": "banner",
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2"
+        },
+        {
+          "document": {
+            "id": "609c60d6-7438-475e-a64f-264068b7c620",
+            "fileName": "1733220653196_FLOW@2x.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "609c60d6-7438-475e-a64f-264068b7c620",
+          "documentType": "wideLogo",
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2"
+        },
+        {
+          "document": {
+            "id": "61bb1408-9f45-451c-94fe-fdbe51ab6d83",
+            "fileName": "1733220641523_FLOW_F@2x.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "61bb1408-9f45-451c-94fe-fdbe51ab6d83",
+          "documentType": "logo",
+          "agencyId": "142fc107-efad-4c89-8662-b78f1b1ca7c2"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-20T09:49:20.147Z"
+    },
+    {
+      "id": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+      "companyName": "Pure Learning Marketing",
+      "about": "The heart of every successful leisure & hospitality business is its people. \nAt Pure, we help People Leaders create workplaces that employees genuinely want to be a part of by applying our 23+ years of marketing experience to the people strategy. \nWith a focus on practical, no-nonsense, operationally-driven marketing solutions, we simplify employee engagement and retention, so you can focus on building a culture where your team feel excited to grow, succeed, and stick around for the long haul.\n\n",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 16,
+          "name": "Hospitality"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 29,
+          "name": "Travel & Tourism"
+        }
+      ],
+      "locations": [
+        {
+          "id": "2ea668b6-8720-4411-aacb-cda7e231e175",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "71a776ef-7e0d-403c-969a-9e4dfb27bbcb",
+            "name": "Kate Sheehan"
+          },
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 1,
+            "name": "Customer Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 1,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 4,
+            "name": "Growth & Innovation Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 4,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 7,
+            "name": "Business Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 7,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 8,
+            "name": "Experience Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 8,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 23,
+            "name": "Customer Experience Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 23,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 24,
+            "name": "Proposition Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 24,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 52,
+            "name": "Illustration",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 52,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 54,
+            "name": "Photography",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 54,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 68,
+            "name": "EVP / Employer Branding",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 68,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 69,
+            "name": "Recruitment Campaigns",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 69,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 70,
+            "name": "Employee Experience",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 70,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 71,
+            "name": "Purpose, Values & Culture",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 71,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 72,
+            "name": "Internal Communications",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 72,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 73,
+            "name": "Learning & Development",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 73,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 74,
+            "name": "Change Management",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 74,
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "0c96b605-f6bb-423d-9aee-01d5d828f5f4",
+            "fileName": "1732188863021_Screenshot_2024-11-21_at_11.33.06.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "0c96b605-f6bb-423d-9aee-01d5d828f5f4",
+          "documentType": "logo",
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868"
+        },
+        {
+          "document": {
+            "id": "3b9f27bc-7892-4060-9b30-46d9fba160de",
+            "fileName": "1732727196594_Screenshot_2024-11-27_at_17.05.45.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "3b9f27bc-7892-4060-9b30-46d9fba160de",
+          "documentType": "banner",
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868"
+        },
+        {
+          "document": {
+            "id": "6cfe9c93-0747-4382-b34c-5ef8c1ef391b",
+            "fileName": "1732188693538_Screenshot_2024-11-21_at_11.31.01.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "6cfe9c93-0747-4382-b34c-5ef8c1ef391b",
+          "documentType": "wideLogo",
+          "agencyId": "6f708244-a288-4963-b2b3-cc3b41a3c868"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-04T12:24:06.016Z"
+    },
+    {
+      "id": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+      "companyName": "TL;DR ",
+      "about": "TL;DR are brand’s secret weapon in a chaotic market.\n\nBig brands struggle to balance long-term goals with immediate demands. We get it. We know how to drive brand strategy and hit performance metrics without breaking a sweat—or your budget.\n\nFrom syncing digital and in-store experiences to sustainable practices and optimising spend, we tackle the challenges your CMO loses sleep over.\n\nWant a brand that stands out? We’re ready to bring the heat.",
+      "agencySize": "20_49",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 2,
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "id": 4,
+          "name": "Beauty"
+        },
+        {
+          "id": 8,
+          "name": "FMCG"
+        },
+        {
+          "id": 9,
+          "name": "Fashion"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 14,
+          "name": "Grocery"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 16,
+          "name": "Hospitality"
+        },
+        {
+          "id": 21,
+          "name": "Pharmaceutical"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 31,
+          "name": "Scale-up"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        }
+      ],
+      "locations": [
+        {
+          "id": "0806dd62-e913-4a5f-ae27-0e78f38e5c5d",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "id": "1c48a9b3-3feb-4c9b-8bf0-77f02e3e325d",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "id": "551f0c76-810f-49f0-aab1-d4e8366dadfd",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "2e728f82-620f-4a9a-ac79-830d841263bb",
+            "name": "Dom "
+          },
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 1,
+            "name": "Customer Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 1,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 2,
+            "name": "Loyalty Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 2,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 3,
+            "name": "CRM Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 3,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 4,
+            "name": "Growth & Innovation Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 4,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 7,
+            "name": "Business Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 7,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 8,
+            "name": "Experience Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 8,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 9,
+            "name": "New Venture Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 9,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 11,
+            "name": "Digital Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 11,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 12,
+            "name": "Segmentation",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 12,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 18,
+            "name": "ROl Optimisation",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 18,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 23,
+            "name": "Customer Experience Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 23,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 24,
+            "name": "Proposition Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 24,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 26,
+            "name": "UX & UI Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 26,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 32,
+            "name": "Web Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 32,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 38,
+            "name": "CRM Implementation",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 38,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 39,
+            "name": "eCommerce & Marketplaces",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 39,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 43,
+            "name": "Creative Production",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 43,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 45,
+            "name": "Copywriting",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 45,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 46,
+            "name": "Editing / Proofreading",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 46,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 48,
+            "name": "Animation",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 48,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 50,
+            "name": "Editing",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 50,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 52,
+            "name": "Illustration",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 52,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 53,
+            "name": "Motion Graphics",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 53,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 54,
+            "name": "Photography",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 54,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 55,
+            "name": "Production Management",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 55,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 56,
+            "name": "TV Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 56,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 57,
+            "name": "Video Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 57,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 58,
+            "name": "Media Strategy & Planning",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 58,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 59,
+            "name": "Media Buying",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 59,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 60,
+            "name": "SEO / SEM",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 60,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 61,
+            "name": "Digital Performance Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 61,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 62,
+            "name": "Social & Influencer Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 62,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 64,
+            "name": "Corporate Communications",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 64,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 65,
+            "name": "Events",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 65,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 66,
+            "name": "Shopper / PoS Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 66,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 67,
+            "name": "Experiential Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 67,
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "5d0a52ce-ea55-468d-962d-df174ea9186b",
+            "fileName": "1732540329697_TLDR_Marketplace_Logo.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "5d0a52ce-ea55-468d-962d-df174ea9186b",
+          "documentType": "logo",
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0"
+        },
+        {
+          "document": {
+            "id": "736ca67c-a86f-4ab5-82c0-0f3804b1d344",
+            "fileName": "1732540378368_TLDR_Linkedin_Banner_(1).jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "736ca67c-a86f-4ab5-82c0-0f3804b1d344",
+          "documentType": "banner",
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0"
+        },
+        {
+          "document": {
+            "id": "f548df0a-9f55-4f3c-a52d-73379b9b294b",
+            "fileName": "1732540350897_TLDR_Marketplace.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "f548df0a-9f55-4f3c-a52d-73379b9b294b",
+          "documentType": "wideLogo",
+          "agencyId": "bdf876b2-0dc0-440c-ae91-88597a3a87d0"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-10-23T13:34:00.607Z"
+    },
+    {
+      "id": "593de703-08de-48d9-8b39-443720cb60f7",
+      "companyName": "Halo",
+      "about": "Shaping distinctive brands for commercial & cultural impact, Halo is a creative studio specialising in strategy, storytelling and creativity. We turn bold ambition into reality, with insight driven, original ideas that look great and people love.\n\nFiercely independent for 20 years, we work for household names and ambitious challengers; approaching all projects with acuity and agility, focusing on what matters most, maximising investment, bringing an open mind and original ideas to every brief.",
+      "agencySize": "20_49",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 2,
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "id": 6,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "Entertainment"
+        },
+        {
+          "id": 8,
+          "name": "FMCG"
+        },
+        {
+          "id": 9,
+          "name": "Fashion"
+        },
+        {
+          "id": 10,
+          "name": "Financial Services"
+        },
+        {
+          "id": 14,
+          "name": "Grocery"
+        },
+        {
+          "id": 22,
+          "name": "Professional Services"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        }
+      ],
+      "locations": [
+        {
+          "id": "e0444f87-9b7e-454a-a731-1f60d6cd3836",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "0edfe4b4-47d4-4376-9b0e-5887ce3eeba0",
+            "name": "Vern Edmonds"
+          },
+          "agencyId": "593de703-08de-48d9-8b39-443720cb60f7"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "c81f2a17-cd1a-4bb3-93f9-36d7cd133287",
+            "name": "Lee Harrison"
+          },
+          "agencyId": "593de703-08de-48d9-8b39-443720cb60f7"
+        }
+      ],
+      "agencyService": [],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "a8fccc89-12d8-471d-9fd6-d1f406c98b03",
+            "fileName": "1731954234942_Halo_Logo.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "a8fccc89-12d8-471d-9fd6-d1f406c98b03",
+          "documentType": "logo",
+          "agencyId": "593de703-08de-48d9-8b39-443720cb60f7"
+        },
+        {
+          "document": {
+            "id": "ee664145-61eb-44a9-b4f2-985d02bbefba",
+            "fileName": "1731954279683_Halo_Miracles_Made_Blue.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "ee664145-61eb-44a9-b4f2-985d02bbefba",
+          "documentType": "banner",
+          "agencyId": "593de703-08de-48d9-8b39-443720cb60f7"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-14T12:03:46.597Z"
+    },
+    {
+      "id": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+      "companyName": "Mint Creative",
+      "about": "We are Mint Creative, the solutions agency where brands are transformed, perceptions challenged and new connections are made. Since 2000 we’ve helped brands to reach their goals across diverse industry sectors. Whatever your mission, we’ve been opening doors to audiences both new and old, delivering successful results for 25 years. We’re experts at defining and delivering on your brands promise, and at identifying the best ways to turn your goals a reality.",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 2,
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "id": 3,
+          "name": "Automotive"
+        },
+        {
+          "id": 4,
+          "name": "Beauty"
+        },
+        {
+          "id": 6,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "Entertainment"
+        },
+        {
+          "id": 9,
+          "name": "Fashion"
+        },
+        {
+          "id": 10,
+          "name": "Financial Services"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 13,
+          "name": "Government"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 16,
+          "name": "Hospitality"
+        },
+        {
+          "id": 18,
+          "name": "Manufacturing"
+        },
+        {
+          "id": 19,
+          "name": "Not for Profit"
+        },
+        {
+          "id": 21,
+          "name": "Pharmaceutical"
+        },
+        {
+          "id": 22,
+          "name": "Professional Services"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 26,
+          "name": "Technology, Information and Media"
+        },
+        {
+          "id": 28,
+          "name": "Transportation, Logistics, Supply Chain and Storage"
+        },
+        {
+          "id": 29,
+          "name": "Travel & Tourism"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        },
+        {
+          "id": 34,
+          "name": "Insurance"
+        }
+      ],
+      "locations": [
+        {
+          "id": "63e3c52e-a2f6-4927-9248-dbf793cadb17",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "3793eb7b-c63c-4085-bc1e-f7d277f3c74d",
+            "name": "Nigel Vichi"
+          },
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "7189b9e0-f55f-4d86-aad0-d62ef5f9def9",
+            "name": "Matt Higson"
+          },
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "bb44918a-ccd7-4d2f-a48d-18c2c236c486",
+            "name": "Hamida Symons"
+          },
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "ea34af54-0dbd-47fd-bcad-02435730c20a",
+            "name": "Bren Huston"
+          },
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 23,
+            "name": "Customer Experience Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 23,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 24,
+            "name": "Proposition Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 24,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 26,
+            "name": "UX & UI Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 26,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 27,
+            "name": "Spatial Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 27,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 32,
+            "name": "Web Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 32,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 33,
+            "name": "AR / VR",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 33,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 37,
+            "name": "CMS / DXP",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 37,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 39,
+            "name": "eCommerce & Marketplaces",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 39,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 43,
+            "name": "Creative Production",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 43,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 45,
+            "name": "Copywriting",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 45,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 46,
+            "name": "Editing / Proofreading",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 46,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 48,
+            "name": "Animation",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 48,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 49,
+            "name": "Audio Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 49,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 52,
+            "name": "Illustration",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 52,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 53,
+            "name": "Motion Graphics",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 53,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 54,
+            "name": "Photography",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 54,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 64,
+            "name": "Corporate Communications",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 64,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 66,
+            "name": "Shopper / PoS Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 66,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 68,
+            "name": "EVP / Employer Branding",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 68,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 70,
+            "name": "Employee Experience",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 70,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 71,
+            "name": "Purpose, Values & Culture",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 71,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 72,
+            "name": "Internal Communications",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 72,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 73,
+            "name": "Learning & Development",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 73,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 74,
+            "name": "Change Management",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 74,
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "6a756eb4-aaef-4a11-9468-e2824e5df95b",
+            "fileName": "1731514805456_MINT-SS.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "6a756eb4-aaef-4a11-9468-e2824e5df95b",
+          "documentType": "logo",
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        },
+        {
+          "document": {
+            "id": "da5ff7dc-1569-4c90-ac62-d773e0255b8e",
+            "fileName": "1731515027657_M-Header.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "da5ff7dc-1569-4c90-ac62-d773e0255b8e",
+          "documentType": "banner",
+          "agencyId": "f48fc6d2-31e3-4844-9b9d-edd07c85de4b"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-11T16:50:34.253Z"
+    },
+    {
+      "id": "3d02bd69-8abe-45ed-8235-00772749f331",
+      "companyName": "Trett Films",
+      "about": "Trett Films is an award-winning video and film production agency based in Norwich and London. Our services span across the region and the entire country, as we specialise in creating cinematic and emotive videos for clients who place people, values and key messages at the forefront of their brand. \n\nTrett Films was developed by two film-buff-brothers. Josh and Matty Trett are the siblings behind Trett Films, combining their passion for cinema to make a real mark in video production. ",
+      "agencySize": "1_4",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 2,
+          "name": "Alcoholic Beverages"
+        },
+        {
+          "id": 3,
+          "name": "Automotive"
+        },
+        {
+          "id": 6,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "Entertainment"
+        },
+        {
+          "id": 10,
+          "name": "Financial Services"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 13,
+          "name": "Government"
+        },
+        {
+          "id": 19,
+          "name": "Not for Profit"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        }
+      ],
+      "locations": [
+        {
+          "id": "30240c62-dde3-4708-bb30-345ad8ff3672",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "id": "c303fafb-cfb4-4dcd-86e9-06931efdb6e0",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "8c64e5ed-7e34-4dd4-8f91-2d5cee68262f",
+            "name": "Joshua Trett"
+          },
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "e6a299bf-0563-4293-bf2a-79f4f350721c",
+            "name": "Julie McQuatt"
+          },
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 50,
+            "name": "Editing",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 50,
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 56,
+            "name": "TV Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 56,
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 57,
+            "name": "Video Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 57,
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331",
+          "isStarred": true
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "12f3126d-3cfb-4ac9-804b-e0c961adb7bb",
+            "fileName": "1732121718633_Trett_Films_Logo_2000.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "12f3126d-3cfb-4ac9-804b-e0c961adb7bb",
+          "documentType": "logo",
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331"
+        },
+        {
+          "document": {
+            "id": "b570be9f-2f63-41e4-aacc-c7503f0b567f",
+            "fileName": "1732121579518_Screenshot_2024-11-10_at_12.47.44.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "b570be9f-2f63-41e4-aacc-c7503f0b567f",
+          "documentType": "banner",
+          "agencyId": "3d02bd69-8abe-45ed-8235-00772749f331"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-15T10:15:17.613Z"
+    },
+    {
+      "id": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+      "companyName": "Built for Growth Digital",
+      "about": "We are Built for Growth Digital, a multi award winning, performance marketing, eCommerce and growth consultancy agency based in Holywood, County Down.  We have a wealth of cohesive and complimentary services that deliver creative solutions to commercial problems including Shopify builds and optimisation, performance marketing, creative and performance analytics and much more. \nHaving been awarded Premier Partner status by Google in 2022 and 2023, we understand what high performance looks like. ",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 4,
+          "name": "Beauty"
+        },
+        {
+          "id": 9,
+          "name": "Fashion"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 31,
+          "name": "Scale-up"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        }
+      ],
+      "locations": [
+        {
+          "id": "d5da23f8-721e-44a9-adcf-cab9b52246e0",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "418e737f-6335-4c6a-b7f3-d9910ebb861c",
+            "name": "Andrew McComb"
+          },
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 2,
+            "name": "Loyalty Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 2,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 4,
+            "name": "Growth & Innovation Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 4,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 6,
+            "name": "Product Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 6,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 11,
+            "name": "Digital Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 11,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 17,
+            "name": "Data Analytics",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 17,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 19,
+            "name": "Dashboarding & Measurement",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 19,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 26,
+            "name": "UX & UI Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 26,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 32,
+            "name": "Web Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 32,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 39,
+            "name": "eCommerce & Marketplaces",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 39,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 60,
+            "name": "SEO / SEM",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 60,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 61,
+            "name": "Digital Performance Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 61,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 62,
+            "name": "Social & Influencer Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 62,
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "24024582-931c-4d1c-8ccd-d22e47b04acd",
+            "fileName": "1734533945551_BFG-Lockup-ardmore-group-logos-and-names.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "24024582-931c-4d1c-8ccd-d22e47b04acd",
+          "documentType": "banner",
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed"
+        },
+        {
+          "document": {
+            "id": "3f715393-793b-42a1-9b53-b74a55b84cf5",
+            "fileName": "1734534214378_Untitled_design_(8).png",
+            "mimeType": "image/png"
+          },
+          "documentId": "3f715393-793b-42a1-9b53-b74a55b84cf5",
+          "documentType": "wideLogo",
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed"
+        },
+        {
+          "document": {
+            "id": "d5c9827a-fd46-4d4d-91ca-94c9737805e5",
+            "fileName": "1734534338251_Untitled_design_(9).png",
+            "mimeType": "image/png"
+          },
+          "documentId": "d5c9827a-fd46-4d4d-91ca-94c9737805e5",
+          "documentType": "logo",
+          "agencyId": "50c25e10-ff01-47ee-ab5c-6df1140684ed"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-12-12T11:40:37.494Z"
+    },
+    {
+      "id": "fce62a28-8908-44b1-a75f-315e67d75133",
+      "companyName": "Gravitywell",
+      "about": "We love new technology and innovation. We help entrepreneurs and innovators achieve their goals.\nOur clients love us because we're friendly, collaborative, hard working and pro-active. ",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 8,
+          "name": "FMCG"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 18,
+          "name": "Manufacturing"
+        },
+        {
+          "id": 22,
+          "name": "Professional Services"
+        },
+        {
+          "id": 26,
+          "name": "Technology, Information and Media"
+        },
+        {
+          "id": 30,
+          "name": "Utilities"
+        },
+        {
+          "id": 31,
+          "name": "Scale-up"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        }
+      ],
+      "locations": [
+        {
+          "id": "bd1f9151-cb0f-46ee-8ff3-01388fa0954e",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "admin",
+          "user": {
+            "id": "7cd0c51a-c7bd-440a-a2eb-3b3dbdcf61c2",
+            "name": "Sam Lihou"
+          },
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133"
+        },
+        {
+          "role": "owner",
+          "user": {
+            "id": "e0bd3157-77ed-498b-9af5-ef5177e0af22",
+            "name": "Simon Bos"
+          },
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 4,
+            "name": "Growth & Innovation Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 4,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 6,
+            "name": "Product Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 6,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 9,
+            "name": "New Venture Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 9,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 23,
+            "name": "Customer Experience Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 23,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 25,
+            "name": "Service Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 25,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 26,
+            "name": "UX & UI Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 26,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 30,
+            "name": "Mobile App Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 30,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 31,
+            "name": "Software Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 31,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 32,
+            "name": "Web Development",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 32,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 34,
+            "name": "Artificial Intelligence",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 34,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 37,
+            "name": "CMS / DXP",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 37,
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "cccf77ac-e8e0-439c-a456-5de02d2cda23",
+            "fileName": "1732533013179_GW_Facebook_Banner.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "cccf77ac-e8e0-439c-a456-5de02d2cda23",
+          "documentType": "banner",
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133"
+        },
+        {
+          "document": {
+            "id": "ed88f79d-6a00-4db5-8ff9-9835fdcb6e05",
+            "fileName": "1732532515134_GW_LinkedIn_Banner.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "ed88f79d-6a00-4db5-8ff9-9835fdcb6e05",
+          "documentType": "wideLogo",
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133"
+        },
+        {
+          "document": {
+            "id": "f347036c-31c5-4133-9513-5cd251f78f2b",
+            "fileName": "1732532388474_Gravitywell_LinkedIn_Profile_Photo.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "f347036c-31c5-4133-9513-5cd251f78f2b",
+          "documentType": "logo",
+          "agencyId": "fce62a28-8908-44b1-a75f-315e67d75133"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-04T15:58:49.720Z"
+    },
+    {
+      "id": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+      "companyName": "Xenai Digital Pty Ltd",
+      "about": "As a trusted Salesforce Consulting Partner, Xenai Digital helps clients modernise by delivering Salesforce multi-cloud projects and managed services across Sales Cloud, Service Cloud, Experience Cloud and Marketing Cloud. We build smarter customer journeys through agile transformation, scalable managed operations, and technology services.",
+      "agencySize": "50+",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 8,
+          "name": "FMCG"
+        },
+        {
+          "id": 9,
+          "name": "Fashion"
+        },
+        {
+          "id": 10,
+          "name": "Financial Services"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 16,
+          "name": "Hospitality"
+        },
+        {
+          "id": 19,
+          "name": "Not for Profit"
+        },
+        {
+          "id": 23,
+          "name": "QSR (Quick Service Restaurant)"
+        },
+        {
+          "id": 24,
+          "name": "Real Estate"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        },
+        {
+          "id": 29,
+          "name": "Travel & Tourism"
+        },
+        {
+          "id": 30,
+          "name": "Utilities"
+        }
+      ],
+      "locations": [
+        {
+          "id": "18c0d5da-0b75-4a0d-9538-46755c43af1d",
+          "country": {
+            "code": "AU",
+            "name": "Australia"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "29007fa4-58ec-4b04-9296-22c735e5f9b2",
+            "name": "Robin Leonard"
+          },
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 1,
+            "name": "Customer Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 1,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 3,
+            "name": "CRM Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 3,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 8,
+            "name": "Experience Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 8,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 10,
+            "name": "Data Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 10,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 11,
+            "name": "Digital Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 11,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 12,
+            "name": "Segmentation",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 12,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 17,
+            "name": "Data Analytics",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 17,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 18,
+            "name": "ROl Optimisation",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 18,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 19,
+            "name": "Dashboarding & Measurement",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 19,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 20,
+            "name": "Customer Data Platforms",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 20,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 21,
+            "name": "MarTech Consulting",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 21,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 22,
+            "name": "Data Visualisation",
+            "serviceGroup": {
+              "id": 2,
+              "name": "Data, Insight & Research"
+            }
+          },
+          "serviceId": 22,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 23,
+            "name": "Customer Experience Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 23,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 34,
+            "name": "Artificial Intelligence",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 34,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 36,
+            "name": "MarTech Implementation",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 36,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 38,
+            "name": "CRM Implementation",
+            "serviceGroup": {
+              "id": 4,
+              "name": "Tech & Development"
+            }
+          },
+          "serviceId": 38,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "2c712b63-8c66-4593-9a14-04f090a5afa2",
+            "fileName": "1734504479560_XD_Logo_horizontal_white.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "2c712b63-8c66-4593-9a14-04f090a5afa2",
+          "documentType": "wideLogo",
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a"
+        },
+        {
+          "document": {
+            "id": "f8d4c58d-a10a-4476-888e-9d52f40182eb",
+            "fileName": "1734503284761_Digital_AF_Group_photo.jpeg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "f8d4c58d-a10a-4476-888e-9d52f40182eb",
+          "documentType": "banner",
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a"
+        },
+        {
+          "document": {
+            "id": "fb99c777-9e85-4c69-839a-21c9a041719e",
+            "fileName": "1734503107310_XD_Logo_square_white_bg.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "fb99c777-9e85-4c69-839a-21c9a041719e",
+          "documentType": "logo",
+          "agencyId": "43e53298-d6b8-4d4a-91cf-c6cb6bdb499a"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-12-18T04:34:30.516Z"
+    },
+    {
+      "id": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+      "companyName": "Focus Creative (part of Focus Group)",
+      "about": "We're an independently owned creative agency with a seriously flat structure that gets to the ideas faster. What makes us different? Our clients stay with us – we mean really stay with us! From our longest client – 20 years to our standard clients – six years and longer. Our people love working here. We've got six employees who have been here 10 years or longer! Finally, we're bloody nice to work with. We know great work can only be created with great relationships, so we work hard on both. ",
+      "agencySize": "20_49",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 5,
+          "name": "Construction"
+        },
+        {
+          "id": 13,
+          "name": "Government"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 18,
+          "name": "Manufacturing"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        }
+      ],
+      "locations": [
+        {
+          "id": "fab612c6-4ca7-4fa9-b6db-5952b33ce7fb",
+          "country": {
+            "code": "AU",
+            "name": "Australia"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "admin",
+          "user": {
+            "id": "c0e3b683-9ae8-4083-80e0-d50a80182f7e",
+            "name": null
+          },
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61"
+        },
+        {
+          "role": "owner",
+          "user": {
+            "id": "c9ac74bc-510d-4057-b007-a807d18718de",
+            "name": "Carlos Jonmundsson"
+          },
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 1,
+            "name": "Customer Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 1,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 5,
+            "name": "Sustainability Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 5,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 26,
+            "name": "UX & UI Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 26,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 43,
+            "name": "Creative Production",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 43,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 45,
+            "name": "Copywriting",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 45,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 46,
+            "name": "Editing / Proofreading",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 46,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 57,
+            "name": "Video Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 57,
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "4442c5fe-392d-49e2-a746-fa5604c53f0a",
+            "fileName": "1732848339214_STUDIOSPACE-03.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "4442c5fe-392d-49e2-a746-fa5604c53f0a",
+          "documentType": "banner",
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61"
+        },
+        {
+          "document": {
+            "id": "4e6c4d0b-a74a-410b-b311-4d55a30d6148",
+            "fileName": "1732848234108_STUDIOSPACE-02.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "4e6c4d0b-a74a-410b-b311-4d55a30d6148",
+          "documentType": "wideLogo",
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61"
+        },
+        {
+          "document": {
+            "id": "d353f766-6c19-4bc8-ab7a-24461243c0e4",
+            "fileName": "1732848206862_STUDIOSPACE-01.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "d353f766-6c19-4bc8-ab7a-24461243c0e4",
+          "documentType": "logo",
+          "agencyId": "2314f792-aed7-4fb1-b101-b669b6f9ef61"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-10-22T03:33:36.521Z"
+    },
+    {
+      "id": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+      "companyName": "Born Ugly",
+      "about": "We are a human-first creative agency. We sit at the intersection of brand, innovation and creativity as an antidote to dehumanising tech. \nWe uncover brands' ‘Ugly Truth’ – the raw, accepted status quo – to set them free to seize future opportunities today. Our approach is human-first, technology-enabled, and collaborative, bringing our team, clients, and partners together to create the unexpected. \nNo egos, no silos…\nA highly experienced core senior team, who collaborate with a network of best",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 8,
+          "name": "FMCG"
+        },
+        {
+          "id": 11,
+          "name": "Food and Beverage Services"
+        },
+        {
+          "id": 12,
+          "name": "Gaming"
+        },
+        {
+          "id": 14,
+          "name": "Grocery"
+        },
+        {
+          "id": 15,
+          "name": "Healthcare"
+        },
+        {
+          "id": 25,
+          "name": "Retail"
+        }
+      ],
+      "locations": [
+        {
+          "id": "74cfe662-b432-4c1c-b289-2eaa569d625e",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "id": "8ce540ea-70bd-45a5-b920-67eeb60222ce",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "admin",
+          "user": {
+            "id": "862da1ea-1c60-4c48-a932-3a3d918db80d",
+            "name": "Sarah Dear"
+          },
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880"
+        },
+        {
+          "role": "owner",
+          "user": {
+            "id": "cd514f6f-1c25-4301-8465-f1e785280912",
+            "name": "Neil Lockwood"
+          },
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 1,
+            "name": "Customer Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 1,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 4,
+            "name": "Growth & Innovation Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 4,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 6,
+            "name": "Product Strategy",
+            "serviceGroup": {
+              "id": 1,
+              "name": "Customer & Business Strategy"
+            }
+          },
+          "serviceId": 6,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 24,
+            "name": "Proposition Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 24,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 28,
+            "name": "Brand Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 28,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": true
+        },
+        {
+          "service": {
+            "id": 43,
+            "name": "Creative Production",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 43,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 51,
+            "name": "Graphic Design",
+            "serviceGroup": {
+              "id": 3,
+              "name": "Experience & Design"
+            }
+          },
+          "serviceId": 51,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 68,
+            "name": "EVP / Employer Branding",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 68,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 70,
+            "name": "Employee Experience",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 70,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 71,
+            "name": "Purpose, Values & Culture",
+            "serviceGroup": {
+              "id": 8,
+              "name": "Employer Brand & Experience"
+            }
+          },
+          "serviceId": 71,
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "93baedb8-708d-452a-80c8-6cdb618de1f1",
+            "fileName": "1731943613328_Born_Ugly_Logo-02.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "93baedb8-708d-452a-80c8-6cdb618de1f1",
+          "documentType": "banner",
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880"
+        },
+        {
+          "document": {
+            "id": "afe46e37-d381-4b7c-baad-178fd1286f96",
+            "fileName": "1731943592863_Born_Ugly_Logo-01.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "afe46e37-d381-4b7c-baad-178fd1286f96",
+          "documentType": "wideLogo",
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880"
+        },
+        {
+          "document": {
+            "id": "f21c9494-10f3-4b10-b7e3-8b3ba07da665",
+            "fileName": "1731943564042_Born_Ugly_Logo-03.png",
+            "mimeType": "image/png"
+          },
+          "documentId": "f21c9494-10f3-4b10-b7e3-8b3ba07da665",
+          "documentType": "logo",
+          "agencyId": "1ba5c026-1c99-4fd2-8650-9d8f2688b880"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-10-24T14:04:36.508Z"
+    },
+    {
+      "id": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+      "companyName": "Beettoo Investor Limited",
+      "about": "Beettoo Investor is a different kind of financial services specialist agency. We believe in the importance of connecting brand to demand, content to media and we give equal weight to both. \nWe're focused on driving better agency value for marketers through a more expert, agile and accountable model, which we call liquid resource. The model delivers better ROI through the smarter use of broad and deep financial services marketing expertise, all delivered seamlessly through one agency partner.",
+      "agencySize": "5_19",
+      "visibility": true,
+      "industries": [
+        {
+          "id": 10,
+          "name": "Financial Services"
+        },
+        {
+          "id": 31,
+          "name": "Scale-up"
+        },
+        {
+          "id": 32,
+          "name": "Start-up"
+        },
+        {
+          "id": 33,
+          "name": "B2B"
+        }
+      ],
+      "locations": [
+        {
+          "id": "af97dd4e-7feb-4a84-8d35-47053d0978c3",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "id": "f1d9126d-9ad0-4e62-8fba-2b7c5f40d5fd",
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          }
+        }
+      ],
+      "agencyUsers": [
+        {
+          "role": "owner",
+          "user": {
+            "id": "20b88c0d-3628-4d4d-a07f-453021a135bd",
+            "name": "Stuart Giddings"
+          },
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59"
+        },
+        {
+          "role": "admin",
+          "user": {
+            "id": "8be6acd5-f20c-4bc8-be1e-2d3306256a7d",
+            "name": "JAMES GILL"
+          },
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59"
+        }
+      ],
+      "agencyService": [
+        {
+          "service": {
+            "id": 40,
+            "name": "Advertising",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 40,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 41,
+            "name": "Brand Strategy",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 41,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 42,
+            "name": "Social Media",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 42,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 44,
+            "name": "Digital Campaign Development",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 44,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 45,
+            "name": "Copywriting",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 45,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 46,
+            "name": "Editing / Proofreading",
+            "serviceGroup": {
+              "id": 5,
+              "name": "Advertising, Brand & Creative"
+            }
+          },
+          "serviceId": 46,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 57,
+            "name": "Video Production",
+            "serviceGroup": {
+              "id": 6,
+              "name": "Production Services"
+            }
+          },
+          "serviceId": 57,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 58,
+            "name": "Media Strategy & Planning",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 58,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 59,
+            "name": "Media Buying",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 59,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 60,
+            "name": "SEO / SEM",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 60,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 61,
+            "name": "Digital Performance Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 61,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        },
+        {
+          "service": {
+            "id": 62,
+            "name": "Social & Influencer Marketing",
+            "serviceGroup": {
+              "id": 7,
+              "name": "Media, PR & Events"
+            }
+          },
+          "serviceId": 62,
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59",
+          "isStarred": false
+        }
+      ],
+      "agencyDocument": [
+        {
+          "document": {
+            "id": "7b6cca0f-4d79-4b5e-8340-c1c7fc020a1c",
+            "fileName": "1732197900226_Beettoo_Investor_logo_grey.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "7b6cca0f-4d79-4b5e-8340-c1c7fc020a1c",
+          "documentType": "banner",
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59"
+        },
+        {
+          "document": {
+            "id": "8e73428d-4301-476c-a68e-3399557de363",
+            "fileName": "1732197590566_Beettoo_Investor_monogram_yellow.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "8e73428d-4301-476c-a68e-3399557de363",
+          "documentType": "logo",
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59"
+        },
+        {
+          "document": {
+            "id": "9172c454-ab72-498c-a763-643a1738fcbe",
+            "fileName": "1732197818767_Beettoo_Investor_logo_yellow.jpg",
+            "mimeType": "image/jpeg"
+          },
+          "documentId": "9172c454-ab72-498c-a763-643a1738fcbe",
+          "documentType": "wideLogo",
+          "agencyId": "a0670d11-945d-4e05-abdb-97b575cd0c59"
+        }
+      ],
+      "status": "approved",
+      "isArchived": false,
+      "createdAt": "2024-11-11T13:49:31.050Z"
+    }
+  ],
+  409
+]

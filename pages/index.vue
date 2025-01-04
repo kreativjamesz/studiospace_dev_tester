@@ -1,16 +1,20 @@
 <template>
-  <OnboardSection>
-    <template #title>
-      <Logo />
-    </template>
-    <template #content>
-      <OnboardCard>
-        <template #content>
-          <LoginForm />
-        </template>
-      </OnboardCard>
-    </template>
-  </OnboardSection>
+  <NuxtLayout :name="layout">
+    <OnboardSection>
+      <template #title>
+        <Logo />
+      </template>
+      <template #content>
+        <OnboardCard>
+          <template #content>
+            <LoginForm />
+          </template>
+        </OnboardCard>
+      </template>
+    </OnboardSection>
+  </NuxtLayout>
 </template>
 
-<script></script>
+<script lang="ts" setup>
+const layout = "auth";
+</script>
