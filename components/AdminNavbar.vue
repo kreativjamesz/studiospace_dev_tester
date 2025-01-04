@@ -9,6 +9,7 @@
         exact
         >Welcome</NuxtLink
       >
+      <div class="separator text-white h-9 border-r border-white mr-4" />
       <NuxtLink
         to="/reports"
         class="text-white hover:text-gray-300 mr-4 text-3xl"
@@ -29,7 +30,7 @@
 <script lang="ts" setup>
 import { useUserDataStore } from "@/stores/userDataStore";
 const userDataStore = useUserDataStore();
-const username = userDataStore.username;
+const { username } = userDataStore;
 </script>
 
 <style></style>

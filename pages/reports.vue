@@ -1,9 +1,9 @@
 <script setup lang="ts">
 const layout = "admin";
-import { onMounted } from "vue";
 import { useAgencyReport } from "@/composables/useAgencyReport";
 
-const { fetchReport, report, isLoading, error } = useAgencyReport();
+const { report, isLoading, error, fetchReport } = useAgencyReport();
+
 onMounted(() => {
   fetchReport();
 });
@@ -12,6 +12,9 @@ onMounted(() => {
 <template>
   <NuxtLayout :name="layout">
     <div class="container mx-auto">
+      <!-- <button @click="fetchReport" :disabled="isLoading">
+        {{ isLoading ? "Generating Report..." : "Generate Report" }}
+      </button> -->
       <h1 class="text-3xl font-semibold text-gray-700 py-4">Agency Report</h1>
       <div v-if="isLoading" class="loading">Loading report...</div>
       <div v-else-if="error" class="error">{{ error }}</div>
