@@ -11,7 +11,7 @@ onMounted(() => {
 
 <template>
   <NuxtLayout :name="layout">
-    <div class="container mx-auto">
+    <div class="container mx-auto px-5">
       <!-- <button @click="fetchReport" :disabled="isLoading">
         {{ isLoading ? "Generating Report..." : "Generate Report" }}
       </button> -->

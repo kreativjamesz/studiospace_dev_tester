@@ -28,16 +28,9 @@
 <script lang="ts" setup>
 const layout = "admin";
 import { useUserDataStore } from "@/stores/userDataStore";
-import { useRouter } from "vue-router";
-
+const handleLogout = useHandleLogout();
 const userDataStore = useUserDataStore();
-const router = useRouter();
 const username = userDataStore.username;
-
-const handleLogout = () => {
-  userDataStore.$reset(); // Clear user data
-  router.push("/"); // Redirect to login
-};
 </script>
 
 <style></style>

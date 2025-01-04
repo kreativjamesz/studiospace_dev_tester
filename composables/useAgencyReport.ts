@@ -1,7 +1,8 @@
 import { ref } from "vue";
 import axios from "axios";
 
-const ENDPOINT = "https://api.app.studiospace.com/listings/list-agencies";
+const { API_BASE_URL } = useRuntimeConfig().public;
+const ENDPOINT = `${API_BASE_URL}/listings/list-agencies`;
 const PAGE_SIZE = 12;
 const REGIONS = ["AU", "GB", "US"];
 const SERVICE_GROUPS = ["Advertising, Brand & Creative", "Media, PR & Events"];
