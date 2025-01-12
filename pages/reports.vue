@@ -1,7 +1,6 @@
 <script setup lang="ts">
 const layout = "admin";
 import { useAgencyReport } from "@/composables/useAgencyReport";
-
 const { report, isLoading, error, fetchReport } = useAgencyReport();
 
 onMounted(() => {
